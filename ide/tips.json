@@ -1,0 +1,13 @@
+[
+  "from run & deploy, use the Recorder to record and replay your transactions to any network.",
+  "AI: Right click on a function body and click on 'Explain this function'.",
+  "AI: Right click on a function body and click on 'Generate documentation' to generate its documentation.",
+  "AI: from a Solidity error, click on 'Ask Gpt'.",
+  "Want to learn new contract patterns and prototype, activate and try the cookbook plugin!",
+  "Want to prototype on a uniswap v4 hooks? create a Multi Sig Swap Hook workspace. Template created by the cookbook team",
+  "Learn Solidity basics and more using the Learneth plugin.",
+  "Prototype using the Gnosis safe multi sig wallet: create a multisig workspace.",
+  "Verify your contract using the Etherscan plugin.",
+  "Verify your contract using the Sourcify plugin.",
+  "Learn ZK tech using the Circom plugin"
+]
