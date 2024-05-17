@@ -2,6 +2,6 @@
   "alerts" : [
     { "message" : "The only URL Remix uses is remix.ethereum.org", "url" : "" },
     { "message" : "Beware of online videos promoting liquidity front runner bots", "url": "https://medium.com/remix-ide/remix-in-youtube-crypto-scams-71c338da32d" },
-    { "message" : "More Security Tips can be found", "url" : "https://remix-ide.readthedocs.io/en/latest/security.html"
+    { "message" : "More Security Tips can be found", "url" : "https://remix-ide.readthedocs.io/en/latest/security.html" }
   ]
 }
