@@ -1,7 +1,7 @@
 [{
     "badge": "RemixAI Assistant",
-    "title": "RemixAI Assistant is a tool that helps you write code faster and easier. RemixAI Assistant is a tool that helps you write code faster and easier. RemixAI Assistant is a tool that helps you write code faster and easier.",
-    "description": "RemixAI Assistant is a tool that helps you write code faster and easier. RemixAI Assistant is a tool that helps you write code faster and easier. RemixAI Assistant is a tool that helps you write code faster and easier.",
+    "title": "RemixAI Assistant",
+    "description": "RemixAI Assistant is a tool that helps you write code faster and easier.",
     "icon": "images/ai-spiral.svg",
     "action": {
         "type": "methodCall",
