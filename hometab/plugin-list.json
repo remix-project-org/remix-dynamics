@@ -17,8 +17,10 @@
         "pluginTitle": "LearnEth Tutorials",
         "action": {
             "type": "methodCall",
-            "label": "Open documentation",
-            "url": "https://remix-ide.readthedocs.io/en/latest/learneth.html"
+            "label": "Start learning",
+            "pluginName": "learnEth",
+            "pluginMethod": "activatePlugin",
+            "pluginArgs": []
         },
         "iconClass": "fa-solid fa-book",
         "maintainedByRemix": true,
