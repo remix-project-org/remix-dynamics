@@ -1,18 +1,4 @@
 [{
-    "badge": "RemixAI Assistant",
-    "title": "RemixAI Assistant",
-    "description": "RemixAI Assistant is a tool that helps you write code faster and easier.",
-    "icon": "images/ai-spiral.svg",
-    "action": {
-        "type": "methodCall",
-        "label": "Build with AI",
-        "pluginName": "remixAIAssistant",
-        "pluginMethod": "activatePlugin",
-        "pluginArgs": []
-    },
-    "theme": "ai"
-},
-{
     "badge": "v0.59.0 Release",
     "title": "v0.59.0 Release",
     "description": "RemixUI v0.59.0 is now available. This release includes new features and improvements.",
@@ -39,15 +25,13 @@
     "theme": "ai"
 },
 {
-    "badge": "v0.59.0 Release",
-    "title": "v0.59.0 Release",
-    "description": "RemixUI v0.59.0 is now available. This release includes new features and improvements.",
-    "icon": "images/illusion.svg",
+    "badge": "LearnEth",
+    "title": "Learn Ethereum with LearnEth",
+    "description": "Get up to speed with Remix, Solidity, and more with tutorials right in Remix!",
     "action": {
         "type": "link",
-        "label": "Read more",
+        "label": "Try it out!",
         "url": "https://remix-ui.org/releases/v0.59.0"
     },
     "theme": "primary"
-}
-]
+}]
