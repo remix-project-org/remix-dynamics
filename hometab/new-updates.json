@@ -25,12 +25,23 @@
     "theme": "ai"
 },
 {
+    "badge": "Remix Desktop",
+    "title": "Remix Desktop Release",
+    "description": "Remix Desktop is now released! It has access to the native terminal, downloadable compilers for offline work, and uses the wallet of your choice!",
+    "action": {
+        "type": "link",
+        "label": "Try it out!",
+        "url": "https://remix-ui.org/releases/v0.59.0"
+    },
+    "theme": "primary"
+},
+{
     "badge": "LearnEth",
     "title": "Learn Ethereum with LearnEth",
     "description": "Get up to speed with Remix, Solidity, and more with tutorials right in Remix!",
     "action": {
         "type": "link",
-        "label": "Try it out!",
+        "label": "Get Learning!",
         "url": "https://remix-ui.org/releases/v0.59.0"
     },
     "theme": "primary"
