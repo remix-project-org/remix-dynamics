@@ -1,12 +1,12 @@
 [{
-    "badge": "v0.59.0 Release",
-    "title": "v0.59.0 Release",
-    "description": "RemixUI v0.59.0 is now available. This release includes new features and improvements.",
+    "badge": "v0.67.0 Release",
+    "title": "v0.67.0 Release",
+    "description": "RemixUI v0.67.0 is released. This release includes new features and improvements.",
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
-        "label": "Read more",
-        "url": "https://remix-ui.org/releases/v0.59.0"
+        "label": "Release notes",
+        "url": "https://medium.com/p/ee2862fd392c/"
     },
     "theme": "primary"
 },
@@ -26,12 +26,12 @@
 },
 {
     "badge": "Remix Desktop",
-    "title": "Remix Desktop Release",
+    "title": "Remix Desktop Beta Release",
     "description": "Remix Desktop is now released! It has access to the native terminal, downloadable compilers for offline work, and uses the wallet of your choice!",
     "action": {
         "type": "link",
         "label": "Try it out!",
-        "url": "https://remix-ui.org/releases/v0.59.0"
+        "url": "https://github.com/remix-project-org/remix-desktop-insiders/releases"
     },
     "theme": "primary"
 },
@@ -42,7 +42,7 @@
     "action": {
         "type": "link",
         "label": "Get Learning!",
-        "url": "https://remix-ui.org/releases/v0.59.0"
+        "url": "David please update this so it doesn't go to another URL but just loads Learneth"
     },
     "theme": "primary"
 }]
