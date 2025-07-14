@@ -1,26 +1,12 @@
 [{
-    "badge": "RemixAI Assistant",
-    "title": "RemixAI Assistant",
-    "description": "RemixAI Assistant is a tool that helps you write code faster and easier.",
-    "icon": "images/ai-spiral.svg",
-    "action": {
-        "type": "methodCall",
-        "label": "Build with AI",
-        "pluginName": "remixAIAssistant",
-        "pluginMethod": "activatePlugin",
-        "pluginArgs": []
-    },
-    "theme": "ai"
-},
-{
-    "badge": "v0.59.0 Release",
-    "title": "v0.59.0 Release",
-    "description": "RemixUI v0.59.0 is now available. This release includes new features and improvements.",
+    "badge": "v0.67.0 Release",
+    "title": "v0.67.0 Release",
+    "description": "RemixUI v0.67.0 is released. This release includes new features and improvements.",
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
-        "label": "Read more",
-        "url": "https://remix-ui.org/releases/v0.59.0"
+        "label": "Release notes",
+        "url": "https://medium.com/p/ee2862fd392c/"
     },
     "theme": "primary"
 },
@@ -32,22 +18,33 @@
     "action": {
         "type": "methodCall",
         "label": "Build with AI",
-        "pluginName": "remixAIAssistant",
-        "pluginMethod": "activatePlugin",
-        "pluginArgs": []
+        "pluginName": "menuicons",
+        "pluginMethod": "select",
+        "pluginArgs": ["remixaiassistant"]
     },
     "theme": "ai"
 },
 {
-    "badge": "v0.59.0 Release",
-    "title": "v0.59.0 Release",
-    "description": "RemixUI v0.59.0 is now available. This release includes new features and improvements.",
-    "icon": "images/illusion.svg",
+    "badge": "Remix Desktop",
+    "title": "Remix Desktop Beta Release",
+    "description": "Remix Desktop is now released! It has access to the native terminal, downloadable compilers for offline work, and uses the wallet of your choice!",
     "action": {
         "type": "link",
-        "label": "Read more",
-        "url": "https://remix-ui.org/releases/v0.59.0"
+        "label": "Try it out!",
+        "url": "https://github.com/remix-project-org/remix-desktop-insiders/releases"
     },
     "theme": "primary"
-}
-]
+},
+{
+    "badge": "LearnEth",
+    "title": "Learn Ethereum with LearnEth",
+    "description": "Get up to speed with Remix, Solidity, and more with tutorials right in Remix!",
+    "action": {
+        "type": "methodCall",
+        "label": "Get Learning!",
+        "pluginName": "manager",
+        "pluginMethod": "activatePlugin",
+        "pluginArgs": ["LearnEth"]
+    },
+    "theme": "primary"
+}]
