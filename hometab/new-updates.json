@@ -18,9 +18,9 @@
     "action": {
         "type": "methodCall",
         "label": "Build with AI",
-        "pluginName": "remixAIAssistant",
-        "pluginMethod": "activatePlugin",
-        "pluginArgs": []
+        "pluginName": "menuicons",
+        "pluginMethod": "select",
+        "pluginArgs": ["remixaiassistant"]
     },
     "theme": "ai"
 },
@@ -40,9 +40,11 @@
     "title": "Learn Ethereum with LearnEth",
     "description": "Get up to speed with Remix, Solidity, and more with tutorials right in Remix!",
     "action": {
-        "type": "link",
+        "type": "methodCall",
         "label": "Get Learning!",
-        "url": "David please update this so it doesn't go to another URL but just loads Learneth"
+        "pluginName": "manager",
+        "pluginMethod": "activatePlugin",
+        "pluginArgs": ["LearnEth"]
     },
     "theme": "primary"
 }]
