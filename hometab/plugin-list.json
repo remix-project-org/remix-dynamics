@@ -9,7 +9,7 @@
             "url": "https://remix-ide.readthedocs.io/en/latest/contract_verification.html"
         },
         "iconClass": "fa-solid fa-file-contract",
-        "maintainedByRemix": true,
+        "maintainedBy": "Remix",
         "description": "Verify your contracts on multiple services at the same time."
     },
     {   
@@ -23,7 +23,7 @@
             "pluginArgs": []
         },
         "iconClass": "fa-solid fa-book",
-        "maintainedByRemix": true,
+        "maintainedBy": "Remix",
         "description": "Learn about Remix, Solidity, and other Web3 projects."
     },
     {
@@ -35,7 +35,7 @@
             "url": "https://remix-ide.readthedocs.io/en/latest/solidity_analyzers.html" 
         },
         "iconClass": "fa-solid fa-file-code",
-        "maintainedByRemix": true,
+        "maintainedBy": "Remix",
         "description": "Analyze your code using Remix, Solhint and Slither."
     },
     {
@@ -47,7 +47,7 @@
             "url": "https://remix-ide.readthedocs.io/en/latest/cookbook.html"
         },
         "iconClass": "fa-solid fa-book",
-        "maintainedByRemix": false,
+        "maintainedBy": "Cookbook",
         "description": "Find smart contracts, solidity libraries, and discover protocols."
     }]
 }

@@ -287,13 +287,13 @@ const docUpdate = {
     ...
 ```
 
-### `maintainedByRemix: boolean`
-**Required** - Indicates whether the plugin is officially maintained by the Remix team.
+### `maintainedBy: string`
+**Required** - Defines the name of the maintainers of the plugin. Defaults to `"community"`.
 
-**Possible Values**:
+**Example Values**:
 ```typescript
-    true   // Official Remix plugin
-    false  // Community plugin
+    "Remix"   // Official Remix plugin
+    "Cookbook"  // Community plugin
 ```
 
 ### `description: string`
