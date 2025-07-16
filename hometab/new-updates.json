@@ -19,7 +19,7 @@
         "type": "methodCall",
         "label": "Build with AI",
         "pluginName": "menuicons",
-        "pluginMethod": "select",
+        "pluginMethod": "activateAndSelect",
         "pluginArgs": ["remixaiassistant"]
     },
     "theme": "ai"
@@ -42,8 +42,8 @@
     "action": {
         "type": "methodCall",
         "label": "Get Learning!",
-        "pluginName": "manager",
-        "pluginMethod": "activatePlugin",
+        "pluginName": "menuicons",
+        "pluginMethod": "activateAndSelect",
         "pluginArgs": ["LearnEth"]
     },
     "theme": "primary"
