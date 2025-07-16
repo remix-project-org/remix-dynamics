@@ -20,7 +20,7 @@
         "label": "Build with AI",
         "pluginName": "menuicons",
         "pluginMethod": "activateAndSelect",
-        "pluginArgs": ["remixaiassistant"]
+        "pluginArgs": "remixaiassistant"
     },
     "theme": "ai"
 },
@@ -44,7 +44,7 @@
         "label": "Get Learning!",
         "pluginName": "menuicons",
         "pluginMethod": "activateAndSelect",
-        "pluginArgs": ["LearnEth"]
+        "pluginArgs": "LearnEth"
     },
     "theme": "primary"
 }]
