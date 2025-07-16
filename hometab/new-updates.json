@@ -1,7 +1,7 @@
 [{
     "badge": "v0.67.0 Release",
     "title": "v0.67.0 Release",
-    "description": "RemixUI v0.67.0 is released. This release includes new features and improvements.",
+    "descriptionList": ["RemixAI now uses your favorite LLM", "RemixAI now generates JS/TS files", "Create smart accounts for Gnosis chain", "Network name/symbol for Injected Provider"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
