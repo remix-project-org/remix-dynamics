@@ -2,7 +2,7 @@
     "badge": "v0.67.0 Release",
     "title": "v0.67.0 Release",
     "descriptionList": ["RemixAI now uses your favorite LLM", "RemixAI now generates JS/TS files", "Create smart accounts for Gnosis chain", "Network name/symbol for Injected Provider"],
-    "icon": "",
+    "icon": "images/illusion.svg",
     "action": {
         "type": "link",
         "label": "Release notes",
@@ -14,7 +14,7 @@
     "badge": "RemixAI Assistant",
     "title": "RemixAI Assistant",
     "description": "RemixAI Assistant is a tool that helps you write code faster and easier.",
-    "icon": "",
+    "icon": "images/ai-spiral.svg",
     "action": {
         "type": "methodCall",
         "label": "Build with AI",
