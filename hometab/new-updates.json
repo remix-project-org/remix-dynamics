@@ -1,6 +1,6 @@
 [{
-    "badge": "v0.67.0 Release",
-    "title": "v0.67.0 Release",
+    "badge": "v0.68.0 Release",
+    "title": "v0.67.0 & v0.68.0 Release",
     "descriptionList": ["RemixAI now uses your favorite LLM", "RemixAI now generates JS/TS files", "Create smart accounts for Gnosis chain", "Network name/symbol for Injected Provider"],
     "icon": "images/illusion.svg",
     "action": {
