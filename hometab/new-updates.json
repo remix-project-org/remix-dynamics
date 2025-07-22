@@ -31,7 +31,7 @@
     "action": {
         "type": "link",
         "label": "Try it out!",
-        "url": "https://github.com/remix-project-org/remix-desktop-insiders/releases"
+        "url": "https://github.com/remix-project-org/remix-desktop/releases"
     },
     "theme": "primary"
 },
