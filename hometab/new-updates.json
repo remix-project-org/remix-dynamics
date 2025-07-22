@@ -26,7 +26,7 @@
 },
 {
     "badge": "Remix Desktop",
-    "title": "Remix Desktop Beta Release",
+    "title": "Remix Desktop Release",
     "description": "Remix Desktop is now released! It has access to the native terminal, downloadable compilers for offline work, and uses the wallet of your choice!",
     "action": {
         "type": "link",
