@@ -18,7 +18,7 @@
         "action": {
             "type": "methodCall",
             "label": "Start learning",
-            "pluginName": "learnEth",
+            "pluginName": "LearnEth",
             "pluginMethod": "activatePlugin",
             "pluginArgs": []
         },
@@ -32,7 +32,7 @@
         "action": {
             "type": "link",
             "label": "Open documentation",
-            "url": "https://remix-ide.readthedocs.io/en/latest/solidity_analyzers.html" 
+            "url": "https://remix-ide.readthedocs.io/en/latest/static_analysis.html" 
         },
         "iconClass": "fa-solid fa-file-code",
         "maintainedBy": "Remix",
@@ -42,9 +42,11 @@
         "pluginId": "cookbookdev",
         "pluginTitle": "Cookbook",
         "action": {
-            "type": "link",
-            "label": "Open documentation",
-            "url": "https://remix-ide.readthedocs.io/en/latest/cookbook.html"
+            "type": "methodCall",
+            "label": "Search for contracts!",
+            "pluginName": "cookbookdev",
+            "pluginMethod": "activatePlugin",
+            "pluginArgs": []
         },
         "iconClass": "fa-solid fa-book",
         "maintainedBy": "Cookbook",
