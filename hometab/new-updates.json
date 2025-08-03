@@ -1,12 +1,11 @@
 [{
-    "badge": "v0.68.0 Release",
-    "title": "v0.67.0 & v0.68.0 Release",
-    "descriptionList": ["RemixAI now uses your favorite LLM", "RemixAI now generates JS/TS files", "Create smart accounts for Gnosis chain", "Network name/symbol for Injected Provider"],
-    "icon": "images/illusion.svg",
+    "badge": "v0.69.0 Release",
+    "title": "v0.69.0 Release",
+    "descriptionList": ["Top Bar added to the UI", "Even easier GitHub login", "Updated main panel Compile button"],    "icon": "images/illusion.svg",
     "action": {
         "type": "link",
         "label": "Release notes",
-        "url": "https://medium.com/p/ee2862fd392c/"
+        "url": "https://medium.com/p/955999227990"
     },
     "theme": "primary"
 },
