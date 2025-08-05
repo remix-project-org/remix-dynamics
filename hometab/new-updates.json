@@ -1,14 +1,15 @@
 [{
     "badge": "v0.69.0 Release",
     "title": "v0.69.0 Release",
-    "descriptionList": ["Top Bar added to the UI", "Even easier GitHub login", "Updated main panel Compile button"],    "icon": "images/illusion.svg",
+    "descriptionList": ["Added a fixed Top Bar to manage workspaces", "Improved editor compile button", "Improved RemixAI assistant usage"],    "icon": "images/illusion.svg",
     "action": {
         "type": "link",
         "label": "Release notes",
-        "url": "https://medium.com/p/955999227990"
+        "url": "https://medium.com/remix-ide/remix-release-v0-69-0-955999227990?source=friends_link&sk=a43508b3dfee78a25ad605988b7bd417"
     },
     "theme": "primary"
 },
+
 {
     "badge": "RemixAI Assistant",
     "title": "RemixAI Assistant",
