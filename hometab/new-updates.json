@@ -1,12 +1,12 @@
 [{
-    "badge": "v0.67.0 Release",
-    "title": "v0.67.0 Release",
-    "descriptionList": ["RemixAI now uses your favorite LLM", "RemixAI now generates JS/TS files", "Create smart accounts for Gnosis chain", "Network name/symbol for Injected Provider"],
+    "badge": "v0.69.0 Release",
+    "title": "v0.69.0 Release",
+    "descriptionList": ["Added a fixed Top Bar to manage workspaces", "Improved editor compile button", "Improved RemixAI assistant usage"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
         "label": "Release notes",
-        "url": "https://medium.com/p/ee2862fd392c/"
+        "url": "https://medium.com/remix-ide/remix-release-v0-69-0-955999227990?source=friends_link&sk=a43508b3dfee78a25ad605988b7bd417"
     },
     "theme": "primary"
 },
