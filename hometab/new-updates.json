@@ -2,15 +2,14 @@
     "badge": "v0.70.0 Release",
     "title": "v0.70.0 Release",
     "descriptionList": ["Light and Dark Themes Update", "Settings Panel moved to Main Panel", "Plugin Manager Design Update"],
-        "icon": "images/illusion.svg",
-        "action": {
+    "icon": "images/illusion.svg",
+    "action": {
         "type": "link",
         "label": "Release notes",
         "url": "https://medium.com/remix-ide/remix-release-v0-70-0-9f01f0e35be8?source=friends_link&sk=8f27863c788fb9a97fcdb339f952d747"
     },
     "theme": "primary"
 },
-
 {
     "badge": "RemixAI Assistant",
     "title": "RemixAI Assistant",
