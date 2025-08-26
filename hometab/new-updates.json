@@ -1,8 +1,8 @@
 [{
-    "badge": "v0.69.0 Release",
-    "title": "v0.69.0 Release",
-    "descriptionList": ["Added a fixed Top Bar to manage workspaces", "Improved editor compile button", "Improved RemixAI assistant usage"],    "icon": "images/illusion.svg",
-    "action": {
+    "badge": "v0.70.0 Release",
+    "title": "v0.70.0 Release",
+    "descriptionList": ["Updated dark and light themes", "Settings panel now in the Main Panel", "Design of Plugin Manager updated"],    "icon": "images/illusion.svg",
+        "action": {
         "type": "link",
         "label": "Release notes",
         "url": "https://medium.com/remix-ide/remix-release-v0-69-0-955999227990?source=friends_link&sk=a43508b3dfee78a25ad605988b7bd417"
