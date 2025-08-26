@@ -1,7 +1,7 @@
 [{
-    "badge": "v0.69.0 Release",
-    "title": "v0.69.0 Release",
-    "descriptionList": ["Added a fixed Top Bar to manage workspaces", "Improved editor compile button", "Improved RemixAI assistant usage"],
+    "badge": "v0.70.0 Release",
+    "title": "v0.70.0 Release",
+    "descriptionList": ["Updated Dark and Light themes", "Moved settings to main panel", "Updated look and feel of plugin manager"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
