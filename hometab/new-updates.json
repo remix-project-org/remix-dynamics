@@ -1,7 +1,7 @@
 [{
     "badge": "v0.70.0 Release",
     "title": "v0.70.0 Release",
-    "descriptionList": ["Added a fixed Top Bar to manage workspaces", "Improved editor compile button", "Improved RemixAI assistant usage"],
+    "descriptionList": ["Light and Dark Themes Update", "Settings Panel moved to Main Panel", "Plugin Manager Design Update"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
@@ -26,7 +26,7 @@
 },
 {
     "badge": "Remix Desktop",
-    "title": "Remix Desktop Beta Release",
+    "title": "Remix Desktop Release",
     "description": "Remix Desktop is now released! It has access to the native terminal, downloadable compilers for offline work, and uses the wallet of your choice!",
     "action": {
         "type": "link",
@@ -36,15 +36,15 @@
     "theme": "primary"
 },
 {
-    "badge": "LearnEth",
-    "title": "Learn Ethereum with LearnEth",
-    "description": "Get up to speed with Remix, Solidity, and more with tutorials right in Remix!",
+    "badge": "Remix Guide",
+    "title": "Remix Guide Videos",
+    "description": "Watch videos to get up to speed with Remix and Solidity!",
     "action": {
         "type": "methodCall",
-        "label": "Get Learning!",
+        "label": "Start watching!",
         "pluginName": "menuicons",
         "pluginMethod": "activateAndSelect",
-        "pluginArgs": "LearnEth"
+        "pluginArgs": "remixGuide"
     },
     "theme": "primary"
 }]
