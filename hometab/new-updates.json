@@ -1,7 +1,8 @@
 [{
     "badge": "v0.70.0 Release",
     "title": "v0.70.0 Release",
-    "descriptionList": ["Light and Dark Themes Update", "Settings Panel moved to Main Panel", "Plugin Manager Design Update"],    "icon": "images/illusion.svg",
+    "descriptionList": ["Light and Dark Themes Update", "Settings Panel moved to Main Panel", "Plugin Manager Design Update"],
+        "icon": "images/illusion.svg",
         "action": {
         "type": "link",
         "label": "Release notes",
