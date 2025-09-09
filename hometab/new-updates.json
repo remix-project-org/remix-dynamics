@@ -1,7 +1,8 @@
 [{
-    "badge": "v0.70.0 Release",
-    "title": "v0.70.0 Release",
-    "descriptionList": ["Light and Dark Themes Updates", "Settings Panel moved to Main Panel", "Plugin Manager Design Update"],
+    "badge": "v0.71.0 Release",
+    "title": "v0.71.0 Release",
+    "descriptionList": ["AI with privacy - Ollama added",
+"Minimize the Right Side panel", "LearnEth refactored"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
