@@ -1,12 +1,12 @@
 [{
-    "badge": "v0.70.0 Release",
-    "title": "v0.70.0 Release",
-    "descriptionList": ["Light and Dark Theme Update", "Settings Panel moved to Main Panel", "Plugin Manager Design Update"],
+    "badge": "v0.71.0 Release",
+    "title": "v0.71.0 Release",
+    "descriptionList": ["AI with Privacy - Ollama Added", "Minimize the Right Side Panel", "New UX for LearnEth Tutorials"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
         "label": "Release notes",
-        "url": "https://medium.com/remix-ide/remix-release-v0-70-0-9f01f0e35be8?source=friends_link&sk=8f27863c788fb9a97fcdb339f952d747"
+        "url": "https://medium.com/remix-ide/remix-release-v0-71-0-e69bf4decf7b?source=friends_link&sk=008bc6c553842c59ec9fb18b9e03adae"
     },
     "theme": "primary"
 },
@@ -26,7 +26,7 @@
 },
 {
     "badge": "Remix Desktop",
-    "title": "Remix Desktop Beta Release",
+    "title": "Remix Desktop Release",
     "description": "Remix Desktop is now released! It has access to the native terminal, downloadable compilers for offline work, and uses the wallet of your choice!",
     "action": {
         "type": "link",
@@ -36,15 +36,15 @@
     "theme": "primary"
 },
 {
-    "badge": "LearnEth",
-    "title": "Learn Ethereum with LearnEth",
-    "description": "Get up to speed with Remix, Solidity, and more with tutorials right in Remix!",
+    "badge": "Remix Guide",
+    "title": "Remix Guide Videos",
+    "description": "Watch videos to get up to speed with Remix and Solidity!",
     "action": {
         "type": "methodCall",
-        "label": "Get Learning!",
+        "label": "Start watching!",
         "pluginName": "menuicons",
         "pluginMethod": "activateAndSelect",
-        "pluginArgs": "LearnEth"
+        "pluginArgs": "remixGuide"
     },
     "theme": "primary"
 }]
