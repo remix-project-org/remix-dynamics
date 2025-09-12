@@ -1,6 +1,6 @@
 [{
-    "badge": "v0.71.0 Release",
-    "title": "v0.71.0 Release",
+    "badge": "v0.71.1 Release",
+    "title": "v0.71.X Release",
     "descriptionList": ["AI with privacy - Ollama added", "Minimize the Right Side panel", "New UX for LearnEth Tutorials"],
     "icon": "images/illusion.svg",
     "action": {
