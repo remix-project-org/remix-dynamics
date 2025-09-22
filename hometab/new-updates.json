@@ -1,7 +1,7 @@
 [{
-    "badge": "v0.71.1 Release",
-    "title": "v0.71.X Release",
-    "descriptionList": ["AI with privacy - Ollama added", "Minimize the Right Side panel", "New UX for LearnEth Tutorials"],
+    "badge": "v1.0.0 Release",
+    "title": "v1.0.0 Release",
+    "descriptionList": ["Environment Dropdown Menu Revamped", "RemixAI Now Has Conversation Starters", "Config File for Workspaces", "All Remix IDE Repos Now Live Under remix-project-org"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
