@@ -5,7 +5,7 @@
         "pluginTitle": "Contract Verification",
         "action": {
             "type": "link",
-            "label": "Open documentation",
+            "label": "Open Documentation",
             "url": "https://remix-ide.readthedocs.io/en/latest/contract_verification.html"
         },
         "iconClass": "fa-solid fa-file-contract",
@@ -17,7 +17,7 @@
         "pluginTitle": "LearnEth Tutorials",
         "action": {
             "type": "methodCall",
-            "label": "Start learning",
+            "label": "Start Learning",
             "pluginName": "LearnEth",
             "pluginMethod": "activatePlugin",
             "pluginArgs": []
@@ -31,7 +31,7 @@
         "pluginTitle": "Solidity Analyzers",
         "action": {
             "type": "link",
-            "label": "Open documentation",
+            "label": "Open Documentation",
             "url": "https://remix-ide.readthedocs.io/en/latest/static_analysis.html" 
         },
         "iconClass": "fa-solid fa-file-code",
@@ -43,7 +43,7 @@
         "pluginTitle": "Cookbook",
         "action": {
             "type": "methodCall",
-            "label": "Search for contracts!",
+            "label": "Search for Contracts!",
             "pluginName": "cookbookdev",
             "pluginMethod": "activatePlugin",
             "pluginArgs": []
