@@ -1,12 +1,12 @@
 [{
-    "badge": "v0.71.0 Release",
-    "title": "v0.71.0 Release",
-    "descriptionList": ["AI with Privacy - Ollama Added", "Minimize the Right Side Panel", "New UX for LearnEth Tutorials"],
+"badge": "v1.0.0 Release",
+    "title": "v1.0.0 Release",
+    "descriptionList": ["Environment Dropdown Menu Revamped", "RemixAI: New Conversation Starters", "Config File for Workspaces"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
-        "label": "Release notes",
-        "url": "https://medium.com/remix-ide/remix-release-v0-71-0-e69bf4decf7b?source=friends_link&sk=008bc6c553842c59ec9fb18b9e03adae"
+        "label": "Release Notes",
+        "url": "https://remix-ide.medium.com/4f33a16ef840?source=friends_link&sk=eadab92227c08d77f5b7de03863ac429"
     },
     "theme": "primary"
 },
@@ -30,7 +30,7 @@
     "description": "Remix Desktop is now released! It has access to the native terminal, downloadable compilers for offline work, and uses the wallet of your choice!",
     "action": {
         "type": "link",
-        "label": "Try it out!",
+        "label": "Try it Out!",
         "url": "https://github.com/remix-project-org/remix-desktop/releases"
     },
     "theme": "primary"
@@ -41,7 +41,7 @@
     "description": "Watch videos to get up to speed with Remix and Solidity!",
     "action": {
         "type": "methodCall",
-        "label": "Start watching!",
+        "label": "Start Watching!",
         "pluginName": "menuicons",
         "pluginMethod": "activateAndSelect",
         "pluginArgs": "remixGuide"
