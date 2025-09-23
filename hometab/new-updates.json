@@ -1,5 +1,5 @@
 [{
-"badge": "v1.0.0 Release",
+    "badge": "v1.0.0 Release",
     "title": "v1.0.0 Release",
     "descriptionList": ["Environment Dropdown Menu Revamped", "RemixAI: New Conversation Starters", "Config File for Workspaces"],
     "icon": "images/illusion.svg",
