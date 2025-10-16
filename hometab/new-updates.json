@@ -1,7 +1,7 @@
 [{
-    "badge": "v1.0.0 Release",
-    "title": "v1.0.0 Release",
-    "descriptionList": ["Environment Dropdown Menu Revamped", "RemixAI: New Conversation Starters", "Config File for Workspaces"],
+    "badge": "v1.1.0 Release",
+    "title": "v1.1.0 Release",
+    "descriptionList": ["Verify Contracts When Deploying", "Custom Compiler Config File", "Strict Project Structure for Noir"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
