@@ -1,6 +1,6 @@
 [{
-    "badge": "v1.1.0 Release",
-    "title": "v1.1.0 Release",
+    "badge": "v1.1.3 Release",
+    "title": "v1.1.3 Release",
     "descriptionList": ["Verify Contracts When Deploying", "Custom Compiler Config File", "Strict Project Structure for Noir"],
     "icon": "images/illusion.svg",
     "action": {
