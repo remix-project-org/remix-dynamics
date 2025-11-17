@@ -1,6 +1,6 @@
 [{
-    "badge": "v1.1.3 Release",
-    "title": "v1.1.3 Release",
+    "badge": "v1.2.0 Release",
+    "title": "v1.2.0 Release",
     "descriptionList": ["Major Improvement to the Noir Compiler", "LearnEth Now Flags Completed Tutorials", "Improved Scrolling in the RemixAI Assistant"],
     "icon": "images/illusion.svg",
     "action": {
