@@ -5,7 +5,7 @@
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
-        "label": "Release notes",
+        "label": "Release Notes",
         "url": "https://ethereumremix.substack.com/p/remix-release-v1-1-0"
     },
     "theme": "primary"
