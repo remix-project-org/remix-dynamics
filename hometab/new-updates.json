@@ -1,12 +1,12 @@
 [{
-    "badge": "v1.1.3 Release",
-    "title": "v1.1.3 Release",
-    "descriptionList": ["Verify Contracts When Deploying", "Custom Compiler Config File", "Strict Project Structure for Noir"],
+    "badge": "v1.2.0 Release",
+    "title": "v1.2.0 Release",
+    "descriptionList": ["Major Improvement to the Noir Compiler", "LearnEth Now Flags Completed Tutorials", "Improved Scrolling in the RemixAI Assistant"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
-        "label": "Release notes",
-        "url": "https://ethereumremix.substack.com/p/remix-release-v1-1-0"
+        "label": "Release Notes",
+        "url": "https://ethereumremix.substack.com/p/remix-release-v120"
     },
     "theme": "primary"
 },
