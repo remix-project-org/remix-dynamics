@@ -1,12 +1,12 @@
 [{
-    "badge": "v1.2.0 Release",
-    "title": "v1.2.0 Release",
-    "descriptionList": ["Major Improvement to the Noir Compiler", "LearnEth Now Flags Completed Tutorials", "Improved Scrolling in the RemixAI Assistant"],
+    "badge": "v1.3.0 Release",
+    "title": "v1.3.0 Release",
+    "descriptionList": ["Create Button in the File Explorer", "Buttons for Collapsing Panels", "Ollama Configuration in Settings Panel"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
         "label": "Release Notes",
-        "url": "https://ethereumremix.substack.com/p/remix-release-v120"
+        "url": "https://ethereumremix.substack.com/p/remix-release-v130"
     },
     "theme": "primary"
 },
