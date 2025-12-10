@@ -1,12 +1,12 @@
 [{
-    "badge": "v1.3.0 Release",
-    "title": "v1.3.0 Release",
-    "descriptionList": ["Create Button in the File Explorer", "Buttons for Collapsing Panels", "Ollama Configuration in Settings Panel"],
+    "badge": "v1.4.0 Release",
+    "title": "v1.4.0 Release",
+    "descriptionList": ["Osaka in The Remix VM", "New Toaster Position", "Easier Verification with Etherscan", "Improved Autocomplete for TS/JS Files"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
         "label": "Release Notes",
-        "url": "https://ethereumremix.substack.com/p/remix-release-v130"
+        "url": "https://ethereumremix.substack.com/p/remix-release-v140"
     },
     "theme": "primary"
 },
