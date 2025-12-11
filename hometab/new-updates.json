@@ -1,7 +1,7 @@
 [{
     "badge": "v1.4.0 Release",
     "title": "v1.4.0 Release",
-    "descriptionList": ["Osaka in the Remix VM", "New Toaster Position", "Improved JS/TS Autocomplete"],
+    "descriptionList": ["Osaka Upgrade in Remix VM", "New Toaster Position", "Improved JS/TS Autocomplete"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
