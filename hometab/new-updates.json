@@ -1,12 +1,12 @@
 [{
-    "badge": "v1.4.0 Release",
-    "title": "v1.4.0 Release",
-    "descriptionList": ["Osaka Upgrade in Remix VM", "New Toaster Position", "Improved JS/TS Autocomplete"],
+    "badge": "v1.5.0 Release",
+    "title": "v1.5.0 Release",
+    "descriptionList": ["Consider Supporting Remix","Maximize Right Panel or Terminal", "Clone Now in Workspace Modal"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
         "label": "Release Notes",
-        "url": "https://ethereumremix.substack.com/p/remix-release-v140"
+        "url": "https://ethereumremix.substack.com/p/remix-release-v150"
     },
     "theme": "primary"
 },
