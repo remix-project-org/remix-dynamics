@@ -1,13 +1,14 @@
 [
-  "You can use the Recorder to record and replay your transactions to any network from the Deploy and Run plugin.",
-  "You can use 'Explain this function' in the right-click menu to receive an explanation from AI.",
-  "You can use 'Generate documentation' in the right-click menu to get AI-generated documentation.",
-  "You can use the help of AI for Solidity error, click on 'Ask RemixAI'.",
-  "To learn new contract patterns and prototype, you can activate and try the cookbook plugin!",
-  "To prototype on a uniswap v4 hooks, you can create a Multi Sig Swap Hook workspace. Template created by the cookbook team.",
+  "Record and replay your transactions to any network from the Recorder in the Deploy & Run plugin.",
+  "Confused about a function, right-click on it in the editor and choose the 'Explain this function' option to get an explanation from RemixAI.",
+  "Generate documentation by right-clicking on a function in the editor and choosing 'Generate documentation' in the pop-up menu.",
+  "You can use the help of AI for Solidity errors, click on 'Ask RemixAI'.",
+  "To learn new contract patterns and prototype, try the Cookbook plugin!",
+  "Activate the Cookbook plugin to read through a wide variety of smart contracts!",
+  "To prototype on a Uniswap v4 Hooks, Create a MultiSig Swap Hook workspace.",
   "You can learn Solidity basics and more using the Learneth plugin.",
-  "To prototype using the Gnosis safe multi sig wallet: create a multisig workspace.",
-  "You can verify your contract using the Etherscan plugin.",
-  "You can verify your contract using the Sourcify plugin.",
-  "You can learn ZK tech using the Circom plugin."
+  "To prototype using the Gnosis Safe MultiSig Wallet: create a MultiSig workspace.",
+  "You can verify a contract using the Contract Verification plugin.",
+  "You can verify a contract by clicking the 'Deploy and Verify' checkbox in Deploy and Run",
+  "Learn ZK tech using the Noir and Circom plugins."
 ]
