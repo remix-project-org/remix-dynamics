@@ -18,9 +18,9 @@
     "action": {
         "type": "methodCall",
         "label": "Build with AI",
-        "pluginName": "menuicons",
-        "pluginMethod": "activateAndSelect",
-        "pluginArgs": "remixaiassistant"
+        "pluginName": "remixaiassistant",
+        "pluginMethod": "chatPipe",
+        "pluginArgs": "I want to build and deploy a contract, ask me precision about what RemixAI should help to build."
     },
     "theme": "ai"
 },
