@@ -1,12 +1,12 @@
 [{
-    "badge": "v1.5.0 Release",
-    "title": "v1.5.0 Release",
-    "descriptionList": ["Consider Supporting Remix","Maximize Right Panel or Terminal", "Desktop: Clone Now in Workspace Modal"],
+    "badge": "v2.0.0 Release",
+    "title": "v2.0.0 Release",
+    "descriptionList": ["The AI Enabled Remix","Huge Updates to Deploy & Run","Debugger Revamped"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
         "label": "Release Notes",
-        "url": "https://ethereumremix.substack.com/p/remix-release-v150"
+        "url": "https://ethereumremix.substack.com/p/remix-release-v2"
     },
     "theme": "primary"
 },
