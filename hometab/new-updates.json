@@ -1,7 +1,7 @@
 [{
     "badge": "v2.0.0 Release",
     "title": "v2.0.0 Release",
-    "descriptionList": ["The AI Enabled Remix","Huge Updates to Deploy & Run","Debugger Revamped"],
+    "descriptionList": ["The AI-Enabled Remix","Huge Updates to Deploy & Run","Debugger Revamped"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
