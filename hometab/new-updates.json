@@ -1,12 +1,12 @@
 [{
-    "badge": "v2.0.0 Release",
-    "title": "v2.0.0 Release",
-    "descriptionList": ["The AI Enabled Remix","Huge Updates to Deploy & Run","Debugger Revamped"],
+    "badge": "v2.1.0 Release",
+    "title": "v2.1.0 Release",
+    "descriptionList": ["Deploy & Run UI Updates", "Bug Fixes"],
     "icon": "images/illusion.svg",
     "action": {
         "type": "link",
         "label": "Release Notes",
-        "url": "https://ethereumremix.substack.com/p/remix-release-v2"
+        "url": "https://ethereumremix.substack.com/p/remix-release-v210"
     },
     "theme": "primary"
 },
