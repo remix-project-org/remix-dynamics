@@ -1,5 +1,5 @@
 {
-    "caption": "Most used plugins 🔥",
+    "caption": "",
     "plugins": [{
         "pluginId": "contract-verification",
         "pluginTitle": "Contract Verification",
@@ -25,31 +25,5 @@
         "iconClass": "fa-solid fa-book",
         "maintainedBy": "Remix",
         "description": "Learn about Remix, Solidity, and other Web3 projects."
-    },
-    {
-        "pluginId": "solidityStaticAnalysis",
-        "pluginTitle": "Solidity Analyzers",
-        "action": {
-            "type": "link",
-            "label": "Open Documentation",
-            "url": "https://remix-ide.readthedocs.io/en/latest/static_analysis.html" 
-        },
-        "iconClass": "fa-solid fa-file-code",
-        "maintainedBy": "Remix",
-        "description": "Analyze your code using Remix, Solhint and Slither."
-    },
-    {
-        "pluginId": "cookbookdev",
-        "pluginTitle": "Cookbook",
-        "action": {
-            "type": "methodCall",
-            "label": "Search for Contracts!",
-            "pluginName": "cookbookdev",
-            "pluginMethod": "activatePlugin",
-            "pluginArgs": []
-        },
-        "iconClass": "fa-solid fa-book",
-        "maintainedBy": "Cookbook",
-        "description": "Find smart contracts, solidity libraries, and discover protocols."
     }]
 }
