@@ -1,29 +1,2 @@
 {
-    "caption": "",
-    "plugins": [{
-        "pluginId": "contract-verification",
-        "pluginTitle": "Contract Verification",
-        "action": {
-            "type": "link",
-            "label": "Open Documentation",
-            "url": "https://remix-ide.readthedocs.io/en/latest/contract_verification.html"
-        },
-        "iconClass": "fa-solid fa-file-contract",
-        "maintainedBy": "Remix",
-        "description": "Verify your contracts on multiple services at the same time."
-    },
-    {   
-        "pluginId": "LearnEth",
-        "pluginTitle": "LearnEth Tutorials",
-        "action": {
-            "type": "methodCall",
-            "label": "Start Learning",
-            "pluginName": "LearnEth",
-            "pluginMethod": "activatePlugin",
-            "pluginArgs": []
-        },
-        "iconClass": "fa-solid fa-book",
-        "maintainedBy": "Remix",
-        "description": "Learn about Remix, Solidity, and other Web3 projects."
-    }]
 }
